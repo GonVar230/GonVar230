@@ -4,16 +4,10 @@
    <strong>
 👤 About Me
 
-I’m a curious and motivated frontend developer who’s always looking to learn something new. I love understanding the reasoning behind things — not just how to build them, but why they work the way they do.
-I enjoy collaborating, sharing ideas, and getting feedback that helps me improve. My goal is to create clean, functional, and user-friendly interfaces while continuing to grow as a developer.
+Frontend developer focused on continuous growth and building real-world experience. I work with JavaScript and React, writing clean, maintainable code and following best practices. Always learning, always improving.
   </strong>
 </p>
-        <ul>
-            <li>I’m looking to keep expanding my skills in web development and get involved in projects where I can contribute, learn, and build real experience.</li>
-            <li>I’m currently diving deeper into JavaScript and React, focusing on strengthening my frontend foundations and good development practices.</li>
-            <li>I’m open to collaborating on projects, practicing together, contributing to ideas, or taking on any challenge that helps me move forward.</li>
-            <li>I enjoy building clean UI, staying organized, and paying attention to details.</li>
-        </ul>
+
 
 ## My Skills Include
 
